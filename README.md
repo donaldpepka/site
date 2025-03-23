@@ -1,1 +1,1 @@
-Thanks to @liliayqian for help setting up this website.
+Thanks to [@liliayqian](https://github.com/liliayqian) for support creating this site.
